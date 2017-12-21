@@ -1,1 +1,6 @@
 # MachineLearningProject_WeChat
+
+    In China,there is a powerful communication software named 'WeChat', the function is similar to SMS,or facebook in US.It can store a lot of information about your friend.When the number of your friend becomes very large,it is hard to find out how many friend you totally have. My group is interested in finding the result of that, and also find out the sex ratio and geographical distribution of my friend in my WeChat.
+    To download the data in WeChat, there is a way through the Web edition of WeChat, the URL is wx2.qq.com, you need to register a WeChat number before you begin this project.And also you need a WeChat in cellphone to scan the QR code to login WeChat Website.
+    After you finished that, this project successfully login the WeChat website and also download the data of your friend and store it in a .csv file.You can quickly scan that after you login in.Also, this project can easily calculate how many friend you hava and the geographical distribution of your friend.You can easily check that after you run this project.
+    Finally, for privacy concern, this project's result only show part of it to protect the privacy of frineds in WeChat.
